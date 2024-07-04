@@ -2,3 +2,4 @@ DATABRICKS_TOKEN=dapi70049b5e5b44b8d537c0ae3590926d83
 httSERVER-HOSTNAME=onetakeda-ustst.cloud.databricks.com
 HTTP_PATH=sql/protocolv1/o/1058862015284785/0628-134222-o1ffnrdp
 PORT=443
+DRIVER=jdbc:databricks://onetakeda-ustst.cloud.databricks.com:443/default;transportMode=http;ssl=1;httpPath=sql/protocolv1/o/1058862015284785/0628-134222-o1ffnrdp;AuthMech=3;UID=token;PWD=<personal-access-token>DRIVER=
