@@ -1,0 +1,2 @@
+jdbc:databricks://onetakeda-ustst.cloud.databricks.com:443/default;transportMode=http;ssl=1;httpPath=sql/protocolv1/o/1058862015284785/0628-134222-o1ffnrdp;AuthMech=3;UID=token;PWD=<personal-access-token>
+https://onetakeda-usprd.cloud.databricks.com/?o=2186391591496286#notebook/3699776426861880/command/3699776426861881
