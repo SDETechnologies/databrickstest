@@ -7,10 +7,9 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-    databricks "github.com/databricks/databricks-sdk-go"
+	"github.com/databricks/databricks-sdk-go"
 	dbsql "github.com/databricks/databricks-sql-go"
     "github.com/databricks/databricks-sdk-go/service/jobs"
-    "github.com/databricks/databricks-sdk-go/config"
 )
 
 func main(){
@@ -39,7 +38,7 @@ func main(){
     //     panic(err)
     // }
 
-    w,err :=  databricks.NewWorkspaceClient(&databricks.Config{
+    w,err := databricks.NewWorkspaceClient(&databricks.Config{
         Host: os.Getenv("DATABRICKS_SERVER_HOSTNAME"),
         Token: os.Getenv("DATABRICKS_TOKEN"),
         Credentials: config.PatCredentials{},

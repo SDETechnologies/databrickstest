@@ -19,6 +19,8 @@ github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGX
 github.com/coreos/go-oidc/v3 v3.5.0 h1:VxKtbccHZxs8juq7RdJntSqtXFtde9YpNpGn0yqgEHw=
 github.com/coreos/go-oidc/v3 v3.5.0/go.mod h1:ecXRtV4romGPeO6ieExAsUK9cb/3fp9hXNz1tlv8PIM=
 github.com/coreos/go-systemd/v22 v22.3.3-0.20220203105225-a9a7ef127534/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
+github.com/databricks/databricks-sdk-go v0.8.0 h1:LNWpcjDDFB9glT3aj6+Ie8Nlk3346TGCHUyUs3D5sU4=
+github.com/databricks/databricks-sdk-go v0.8.0/go.mod h1:aEMLe00mMlf5gvkD8PInqOM+dIAimeuAM6U+9eQN2yE=
 github.com/databricks/databricks-sdk-go v0.43.0 h1:x4laolWhYlsQg2t8yWEGyRPZy4/Wv3pKnLEoJfVin7I=
 github.com/databricks/databricks-sdk-go v0.43.0/go.mod h1:a9rr0FOHLL26kOjQjZZVFjIYmRABCbrAWVeundDEVG8=
 github.com/databricks/databricks-sql-go v1.5.7 h1:UIbzDhKjmtCc0ia9jg0s7tITjXUnkA3+Nl1ukxXfunk=

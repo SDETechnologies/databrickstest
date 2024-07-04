@@ -10,7 +10,7 @@ require (
 	github.com/apache/arrow/go/v12 v12.0.1 // indirect
 	github.com/apache/thrift v0.17.0 // indirect
 	github.com/coreos/go-oidc/v3 v3.5.0 // indirect
-	github.com/databricks/databricks-sdk-go v0.43.0 // indirect
+	github.com/databricks/databricks-sdk-go v0.8.0 // indirect
 	github.com/databricks/databricks-sql-go v1.5.7 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.0 // indirect
