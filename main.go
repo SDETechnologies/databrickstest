@@ -40,7 +40,7 @@ func main(){
     ctx := context.Background()
 
     nt := jobs.NotebookTask{
-        NotebookPath: 
+        NotebookPath: os.Getenv("TEST_NOTEBOOK_PATH"),
     }
 
     jobToRun, err := w.Jobs.Create(ctx, jobs.CreateJob{
